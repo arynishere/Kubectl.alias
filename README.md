@@ -6,3 +6,7 @@ kr = kubectl roullout + "deployment/DEPLOYMENT_NAME"
 kgs = kubecetl get services
 and etc
 ```
+## How to use
+```
+bash kubectlalias.sh
+```
