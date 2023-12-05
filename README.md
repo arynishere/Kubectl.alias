@@ -1,2 +1,2 @@
-# kubectl-alias-
-you can use this script for set alias about kubectl 
+# kubectl alias
+## you can use this alias for kubernetes
