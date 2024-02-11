@@ -18,5 +18,6 @@ alias kl='kubectl logs'
 alias ke='kubectl exec'
 alias kgnl='kubectl get nodes --show-labels'
 alias ke='kubectl events'
+alias kda='kubectl delete --all'
 EOL
 source ~/.bashrc
